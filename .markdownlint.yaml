@@ -1,0 +1,6 @@
+# Unordered list indentation
+MD007:
+  indent: 4
+
+MD024: false # Multiple headings with the same content
+MD025: false # Multiple top-level headings in the same document
